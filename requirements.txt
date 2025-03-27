@@ -1,3 +1,8 @@
 fastapi==0.104.1
 uvicorn==0.24.0
-pydantic==2.4.2 
+pydantic==2.4.2
+pycdlib==1.14.0
+pytest==7.4.3
+httpx==0.25.2
+pytest-asyncio==0.21.1
+humanize==4.9.0 
